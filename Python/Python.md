@@ -1,8 +1,6 @@
- <span style="color: rgb(255, 76, 65);">Resources</span>
 
-Download code and more details, please refer to the following link: <https://fs.keyestudio.com/KS3016>
 
-# KS3016 Raspberry Pi Sensor Starter Kit Python
+# Python Tutorial
 
 Raspberry Pi and electronic components are controlled via Python.
 
@@ -3936,12 +3934,4 @@ GPIO.cleanup()
 
 
 
-## 5.Resources：
 
-<https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/6>
-
-<https://www.raspberrypi.org/documentation/installation/installing-images/README.md>
-
-<https://www.raspberrypi.org/software/>
-
-<https://fs.keyestudio.com/KS3016>

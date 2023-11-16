@@ -1,4 +1,4 @@
-# Raspberry Pi Sensor Starter Kit processing JAVA
+# Processing JAVA Tutorial
 
 We recommend you to learn the Python and C language tutorials about this kit firstly. And we have demonstrated how to install Raspberry Pi OS, fix IP address and conduct remote login.
 
@@ -1916,12 +1916,5 @@ void titleAndSiteInfo() {
 
 
 
-## 3. Resources:
 
-1. <https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/6>
-2. <https://www.raspberrypi.org/documentation/installation/installing-images/README.md>
-3. <https://www.raspberrypi.org/software/>
-4. <https://pi.processing.org/get-started/>
-5. <https://pi.processing.org/>
-7. <https://fs.keyestudio.com/KS3016>
 

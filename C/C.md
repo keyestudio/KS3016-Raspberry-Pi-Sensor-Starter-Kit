@@ -1,4 +1,4 @@
-# KS3016 Raspberry Pi Sensor Starter Kit C Language
+# C Language Tutorial
 
 Raspberry Pi and electronic components are controlled via C language here.
 
@@ -4170,9 +4170,3 @@ int main(void)
 }
 ```
 
-## 5. Resources:
-
-1. <https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/6>
-2. <https://www.raspberrypi.org/documentation/installation/installing-images/README.md>
-3. <https://www.raspberrypi.org/software/>
-5. <https://fs.keyestudio.com/KS3016>

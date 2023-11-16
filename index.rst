@@ -1,10 +1,12 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: KS3016 Raspberry Pi Sensor Starter Kit
 
-   README.md
-   docs/keyestudio/index
+   home.md
+   C/C.md
+   JAVA/JAVA.md
+   Python/Python.md
 
 
 

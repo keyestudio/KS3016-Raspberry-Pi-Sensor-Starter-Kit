@@ -6,6 +6,11 @@ Raspberry Pi is a credit-card sized computer of low cost with Raspberry Pi OS as
 
 And this is a purpose-built kit for Raspberry Pi enthusiasts, through which you could acquire knowledge of Linux and Python, Java and other programming languages, as well as the application of sensors or modules.
 
+ <span style="color: rgb(255, 76, 65);">Resources</span>
+
+Download code and more details, please refer to the following link: <https://fs.keyestudio.com/KS3016>
+
+
 ## 2. Kit List:
 
 When you get this kit, please confirm whether all components listed below are delivered.
