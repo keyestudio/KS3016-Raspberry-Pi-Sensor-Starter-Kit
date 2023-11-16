@@ -64,11 +64,3 @@ When you get this kit, please confirm whether all components listed below are de
 
 <https://fs.keyestudio.com/KS3016>
 
-## 4.Tutorials
-
-[C Language](KS3016_C\KS3016_C.md)
-
-[JAVA](KS3016_JAVA\KS3016_JAVA.md)
-
-[Python](KS3016_Python\KS3016_Python.md)
-

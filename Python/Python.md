@@ -1,12 +1,12 @@
 
 
-# Python Tutorial
+# **Python Tutorial**
 
 Raspberry Pi and electronic components are controlled via Python.
 
 ## 1. Install Raspberry Pi OS System：
 
-### **1.1Hardware Tool：**
+### 1.1Hardware Tool：
 
 -   Raspberry Pi 4B/3B/2B
 
@@ -16,7 +16,7 @@ Raspberry Pi and electronic components are controlled via Python.
 
 -   Computer and other parts
 
-### **1.2Software Tool**
+### 1.2Software Tool
 
 **Windows System：**
 
@@ -321,7 +321,7 @@ As shown below:
 
 ![](media/aa59941ff4c1e582e8183c1dc3767fce.png)
 
-#### **(7) Open the remote desktop connection on Windows**
+#### (7) Open the remote desktop connection on Windows
 
 Press **WIN+R** on keyboard and enter <span style="color: rgb(255, 76, 65);">mstsc.exe</span> .
 
